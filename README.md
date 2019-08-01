@@ -1,10 +1,12 @@
-# Unit 4 | Assignment - Pandas, Pandas, Pandas
+# Video Game Analysis
 
-## Summary
+## Summary (with nbviewer link to my code)
 
 The data dive continues!
 
-Now, it's time to take what you've learned about Python Pandas and use it to parse through thousands of records in order draw conclusions about the data.  Your [code](https://nbviewer.jupyter.org/github/OrdnaH/Heroes-of-Pymoli-Analysis/blob/master/Video%20Game%20Analysis.ipynb) will allow you to identify trends on a dataset that Excel/VBA would not be able handle efficiently.
+Use your knowledge of Pandas to parse through thousands of records in order to draw conclusions about the data. This activity demonstrates your ability to utilize Pandas and identify trends of a dataset that couldn't be completed efficiently without programming. At the end of your [code](https://nbviewer.jupyter.org/github/OrdnaH/Heroes-of-Pymoli-Analysis/blob/master/Video_Game_Analysis.ipynb) (snippet below), include a written description of three observable trends based on the data analysis.
+
+![Code_Snippet](Images/Code_Snippet.png)
 
 ## Heroes of Pymoli
 
@@ -78,10 +80,6 @@ Your final report should include each of the following:
 
 ## Considerations
 
-* This is a challenging activitity for a number of reasons. For one, this activitity will require you to analyze thousands of records. Hacking through the data to look for obvious trends in Excel is just not a feasible option. The size of the data may seem daunting, but pandas will allow you to efficiently parse through it.
+* This is challenging for a number of reasons. For starters, it will require you to analyze thousands of records. Hacking through the data to look for obvious trends in Excel is just not a feasible option. The size of the data may seem daunting, but pandas will allow you to efficiently parse through it.
 
-* Second, this activitity will also challenge you by requiring you to learn on your feet. Don't fool yourself into thinking: "I need to study pandas more closely before diving in." Get the basic gist of the library and then _immediately_ get to work. When facing a daunting task, it's easy to think: "I'm just not ready to tackle it yet." But that's the surest way to never succeed. Learning to program requires one to constantly tinker, experiment, and learn on the fly. You are doing exactly the _right_ thing, if you find yourself constantly practicing Google-Fu and diving into documentation. There is just no way (or reason) to try and memorize it all. Online references are available for you to use when you need them. So use them!
-
-* Take each of these tasks one at a time. Begin your work, answering the basic questions: "How do I import the data?" "How do I convert the data into a DataFrame?" "How do I build the first table?" Don't get intimidated by the number of asks. Many of them are repetitive in nature with just a few tweaks. Be persistent and creative!
-
-* Expect these exercises to take time! Don't get discouraged if you find yourself spending hours initially with little progress. Force yourself to deal with the discomfort of not knowing and forge ahead. Consider these hours an investment in your future!
+* Begin by answering the basic questions: "How do I import the data?" "How do I convert the data into a DataFrame?" "How do I build the table?" Don't get intimidated by the number of tasks. Many of them are repetitive in nature with just a few tweaks. Be persistent and creative!
